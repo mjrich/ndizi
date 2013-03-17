@@ -1,0 +1,30 @@
+province,inputprice,country,price,inputcurrency,currency,key,inputunit,date,unit,city,retailer
+Sardegna,2.12,Italy,2.63,EUR,USD,Italy-Sardegna,lbs,04-Jun-12,lbs,,
+Istanbul,3.50,Turkey,1.94,TRY,USD,Turkey-Istanbul,lbs,09-Oct-12,lbs,Istanbul,Sanal Market
+Hamilton Municipality(C),1.69,Bermuda,1.69,BMD,USD,Bermuda-Hamilton Municipality(C),lbs,22-Mar-10,lbs,Hamilton(C),
+New South Wales,3.48,Australia,1.59,AUD,USD,Australia-New South Wales,kg,12-May-12,lbs,Sydney,
+Bern(C),3.50,Switzerland,1.47,CHF,USD,Switzerland-Bern(C),kg,24-Apr-10,lbs,Bern(C),LeShop
+Tel Aviv(C),11.90,Israel,1.44,ILS,USD,Israel-Tel Aviv(C),kg,22-Apr-12,lbs,Tel Aviv(C),
+Cataluna,2.20,Spain,1.29,EUR,USD,Spain-Cataluna,kg,13-Sep-12,lbs,Barcelona,Groc
+Shanghai,15.00,China,1.08,CNY,USD,China-Shanghai,kg,16-Apr-12,lbs,Shanghai,
+Taipei(C),74.00,Taiwan,1.06,TWD,USD,Taiwan-Taipei(C),kg,16-May-10,lbs,Taipei(C),
+Ile-De-France(C),1.80,France,1.04,EUR,USD,France-Ile-De-France(C),kg,09-May-10,lbs,Paris(C),
+Brussels(C),1.55,Belgium,0.94,EUR,USD,Belgium-Brussels(C),kg,10-Dec-11,lbs,Brussels(C),Cora
+California,0.79,United States,0.86,USD,USD,United States-California,lbs,07-Apr-12,lbs,San Jose,Safeway
+Jakarta Raya(C),"17,000.00",Indonesia,0.85,IDR,USD,Indonesia-Jakarta Raya(C),kg,08-Oct-12,lbs,Jakarta(C),Ranch 99
+Hlavni Mesto Praha(C),34.90,Czech Republic,0.84,CZK,USD,Czech Republic-Hlavni Mesto Praha(C),kg,03-Apr-10,lbs,Prague(C),Billa
+Ontario(C),1.74,Canada,0.79,CAD,USD,Canada-Ontario(C),kg,12-Apr-12,lbs,Toronto,
+Oslo(C),9.90,Norway,0.74,NOK,USD,Norway-Oslo(C),kg,27-Mar-10,lbs,Oslo(C),
+Connecticut,0.69,United States,0.73,USD,USD,United States-Connecticut,lbs,08-Apr-10,lbs,Manchester,Big Y Supermarket
+Maharashtra,30.00,India,0.67,INR,USD,India-Maharashtra,lbs,12-Apr-11,lbs,Thane,
+Gauteng(C),5.99,South Africa,0.66,ZAR,USD,South Africa-Gauteng(C),lbs,26-Jan-13,lbs,Randburg,Spar
+Washington,0.59,United States,0.63,USD,USD,United States-Washington,lbs,21-Mar-10,lbs,Renton,QFC
+Dubayy,4.99,United Arab Emirates,0.62,AED,USD,United Arab Emirates-Dubayy,kg,18-Apr-12,lbs,Dubai,
+Amman(C),0.90,Jordan,0.58,JOD,USD,Jordan-Amman(C),kg,15-Apr-10,lbs,Amman(C),
+Virginia,0.47,United States,0.49,USD,USD,United States-Virginia,lbs,16-Dec-11,lbs,,Super A Market
+New York,0.49,United States,0.49,USD,USD,United States-New York,lbs,30-Nov-11,lbs,Poughkeepsie,ShopRite
+Scotland,0.69,United Kingdom,0.48,GBP,USD,United Kingdom-Scotland,kg,03-Jun-12,lbs,Edinburgh,Sainsbury
+England(C),0.63,United Kingdom,0.43,GBP,USD,United Kingdom-England(C),kg,12-Mar-10,lbs,London(C),
+Delhi(C),40.00,India,0.33,INR,USD,India-Delhi(C),kg,12-Sep-12,lbs,New Delhi(C),Departmental store
+Jiangxi,4.00,China,0.27,CNY,USD,China-Jiangxi,kg,28-Feb-10,lbs,Nanchang,
+Hong Kong(C),3.80,Hong Kong,0.22,HKD,USD,Hong Kong-Hong Kong(C),kg,15-Apr-12,lbs,Hong Kong(C),
