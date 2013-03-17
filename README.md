@@ -21,6 +21,8 @@ We scraped the [mfarm](http://www.mfarm.co.ke/) data from Kenya.  This is SMS da
 
 Our scraper code and data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/tree/master/mfarm/data) directory.
 
+[Here is a map](http://public.tableausoftware.com/views/Ndizi/Sheet1?:embed=y&:display_count=no) with average Maize prices by market over the last 60 days.
+
 
 
 We copied/pasted & learned to scrape consumption data from websites in Uganda, Kenya, Tanzania, and Ethiopia.  We also looked at some data from South Africa.
