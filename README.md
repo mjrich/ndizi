@@ -14,7 +14,9 @@ Our data is also posted in the [banana](https://github.com/mjrich/ndizi/tree/mas
 
 We scraped the mfarm data from Kenya.  This is SMS data sent to kenyan farmers to help them know prices in different markets.  We have reporposed these "data exhaust" which can now be visualized like the below:
 
-![Alt text](/mfarm/mfarm_placeholder.png)  Our data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/mfarm/data) directory.
+![Alt text](/mfarm/mfarm_placeholder.png)  
+
+Our data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/tree/master/mfarm/data) directory.
 
 
 
@@ -26,7 +28,7 @@ We scraped consumption data from websites in Uganda, Kenya, Tanzania, and Ethiop
 ![Alt text](/africa/Urban vs National Daily Diet Cost.png)
 
 
-Our data is also posted in the [africa](https://github.com/mjrich/ndizi/tree/master/africa) directory.
+Our data is in this [Google Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AmiN1lPwld-EdFRXLXNUTWdjWnF6MDR1S0FObW5lUWc#gid=3) and some data is also posted in the [africa](https://github.com/mjrich/ndizi/tree/master/africa) directory.  
 
 
 ##Indonesia
