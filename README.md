@@ -1,7 +1,7 @@
 # #TeamNdizi: Scraping global food prices and consumption data 
 ![Alt text](/banana/peanut-butter-jelly-time.gif)
 
-We are #TeamNdizi (banana in Swahili).  We are in DC at the DataKind World Bank DataDive on March 16, 2013 scraping food prices from websites around the world.
+We are [#TeamNdizi](https://twitter.com/search/realtime?q=%23TeamNdizi) (banana in Swahili).  We are in DC at the DataKind World Bank DataDive on March 16, 2013 scraping food prices from websites around the world.
 
 ##Banana
 
