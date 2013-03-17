@@ -12,7 +12,7 @@ base = datetime.datetime.today()
 dateList = [ base - datetime.timedelta(days=x) for x in range(0,numdays) ]
 
 rows = []
-for d in dateList[1:60]:
+for d in dateList:
 	date = str(d).split(" ")[0]
 	url = 'http://mfarm.co.ke/price/' + date
 	
