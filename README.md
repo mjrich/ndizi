@@ -38,7 +38,7 @@ Our data is in this [Google Spreadsheet](https://docs.google.com/spreadsheet/ccc
 
 We also scraped rice prices from twitter and the [carrefour indonesia website](http://www.carrefour.co.id/).  We even used the [way-back machine](http://archive.org/web/web.php) to scrape older price data from carrefour.
 
-![Alt text](/indonesia/indonesia_rice.png)
+![Alt text](/indonesia/IndonesiaRice.png)
 
 
 Our data is also posted in the [indonesia](https://github.com/mjrich/ndizi/tree/master/indonesia) directory.  The scraper is [here](https://scraperwiki.com/scrapers/banana-scraping_1/). 
