@@ -131,7 +131,7 @@ function updateVis( vis, w, h, 	p, x, y ){
 
 
 
-d3.json('../data/mfarm_60_days.json', function(d){
+d3.json('https://gist.github.com/pdarche/5177672/raw/43e53332012706e8bc6866a141d089e142dba765/60_day_mfarm.json', function(d){
 
 	selectData(d, "Wheat", "NAIROBI")
 
