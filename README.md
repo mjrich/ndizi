@@ -7,13 +7,14 @@ We are #TeamNdizi (banana in Swahili).  We are in DC at the DataKind World Bank 
 
 We started our day by scraping crowdsourced banana prices from [here](http://www.humuch.com/prices/Bananas/______/22). We wrote a scraper [here](https://scraperwiki.com/scrapers/banana-scraping/) and made the below price visualization by continent.  After this, 4 people, new to scraping, set off to write their own scrapers.
 
-![Alt text](/banana/bananas.png).  Our data is also posted in the [banana](https://github.com/mjrich/ndizi/tree/master/banana) directory.
+![Alt text](/banana/bananas.png)
+Our data is also posted in the [banana](https://github.com/mjrich/ndizi/tree/master/banana) directory.
 
 ##Africa (especially Kenya)
 
 We scraped the mfarm data from Kenya.  This is SMS data sent to kenyan farmers to help them know prices in different markets.  We have reporposed these "data exhaust" which can now be visualized like the below:
 
-![Alt text](/mfarm/mfarm_placeholder.png).  Our data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/mfarm/data) directory.
+![Alt text](/mfarm/mfarm_placeholder.png)  Our data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/mfarm/data) directory.
 
 
 
@@ -25,7 +26,7 @@ We scraped consumption data from websites in Uganda, Kenya, Tanzania, and Ethiop
 ![Alt text](/africa/Urban vs National Daily Diet Cost.png)
 
 
-Our data is also posted in the [africa](https://github.com/mjrich/ndizi/africa) directory.
+Our data is also posted in the [africa](https://github.com/mjrich/ndizi/tree/master/africa) directory.
 
 
 ##Indonesia
@@ -35,6 +36,6 @@ We also scraped rice prices from twitter and carrefour indonesia websites.  We e
 ![Alt text](/indonesia/indonesia_rice.png)
 
 
-Our data is also posted in the [indonesia](https://github.com/mjrich/ndizi/africa) directory.
+Our data is also posted in the [indonesia](https://github.com/mjrich/ndizi/tree/master/indonesia) directory.
 
 
