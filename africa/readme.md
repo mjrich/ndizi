@@ -1,0 +1,1 @@
+Our data is in this [Google Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AmiN1lPwld-EdFRXLXNUTWdjWnF6MDR1S0FObW5lUWc#gid=3) and some data is also posted in the [africa](https://github.com/mjrich/ndizi/tree/master/africa) directory.  A scraper for numbeo Uganda is [here](https://scraperwiki.com/scrapers/numbeo-ethiopia_1/).
