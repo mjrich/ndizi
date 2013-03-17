@@ -1,7 +1,7 @@
 # #TeamNdizi: Scraping global food prices and consumption data 
 ![Alt text](/banana/peanut-butter-jelly-time.gif)
 
-We are [#TeamNdizi](https://twitter.com/search/realtime?q=%23TeamNdizi) (banana in Swahili).  We are in DC at the DataKind World Bank DataDive on March 16, 2013 scraping food prices from websites around the world.
+We are [#TeamNdizi](https://twitter.com/search/realtime?q=%23TeamNdizi) (banana in Swahili) in DC at the DataKind World Bank DataDive on March 16, 2013 scraping food prices from websites around the world.
 
 ##Banana
 
@@ -12,7 +12,7 @@ Our data is also posted in the [banana](https://github.com/mjrich/ndizi/tree/mas
 
 ##Africa (especially Kenya)
 
-We scraped the mfarm data from Kenya.  This is SMS data sent to kenyan farmers to help them know prices in different markets.  We have reporposed these "data exhaust" which can now be visualized like the below:
+We scraped the [mfarm](http://www.mfarm.co.ke/) data from Kenya.  This is SMS data sent to kenyan farmers to help them know prices in different markets.  We have reporposed these "data exhaust" which can now be visualized like the below:
 
 ![Alt text](/mfarm/mfarm_placeholder.png)  
 
