@@ -16,6 +16,7 @@ Our data is also posted in the [banana](https://github.com/mjrich/ndizi/tree/mas
 
 We scraped the [mfarm](http://www.mfarm.co.ke/) data from Kenya.  This is SMS data sent to kenyan farmers to help them know prices in different markets.  We have repurposed these "data exhaust" which can now be visualized like the below:
 
+###This is a placeholder for a custom data interactive... stay tuned..
 ![Alt text](/mfarm/mfarm_placeholder.png)  
 
 Our scraper code and data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/tree/master/mfarm/data) directory.
