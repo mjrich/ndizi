@@ -64,6 +64,7 @@ function setupVis( minPrice, maxPrice, minDate, maxDate ){
 
 }
 
+
 function updateVis( vis, w, h, 	p, x, y ){
 
     var rules = vis.selectAll("g.rule")
