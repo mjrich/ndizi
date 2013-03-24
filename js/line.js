@@ -53,12 +53,12 @@ function setupVis( minPrice, maxPrice, minDate, maxDate ){
 	    x = d3.time.scale().domain([minDate, maxDate]).range([0, w]);
 
     var vis = d3.select("#vis_container")
-				.data([data])
-				.append("svg:svg")
-				.attr("width", w + p * 2)
-				.attr("height", h + p * 2)
-				.append("svg:g")
-				.attr("transform", "translate(" + p + "," + p + ")")
+		.data([data])
+		.append("svg:svg")
+		.attr("width", w + p * 2)
+		.attr("height", h + p * 2)
+	.append("svg:g")
+		.attr("transform", "translate(" + p + "," + p + ")")
 
 	updateVis( vis, w, h, p, x, y )
 
@@ -128,8 +128,6 @@ function updateVis( vis, w, h, 	p, x, y ){
 	    })
 
 }
-
-
 
 d3.json('https://gist.github.com/pdarche/5177672/raw/43e53332012706e8bc6866a141d089e142dba765/60_day_mfarm.json', function(d){
 
