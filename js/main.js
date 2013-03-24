@@ -1,6 +1,6 @@
 $( document ).ready(function(){
 
-	$.when( $.getJSON('../data/mfarm_60_days.json') )
+	$.when( $.getJSON('https://gist.github.com/pdarche/5177672/raw/43e53332012706e8bc6866a141d089e142dba765/60_day_mfarm.json') )
 	.done(
 		function(data){
 			var products = checkUniques(data)
@@ -11,7 +11,7 @@ $( document ).ready(function(){
 	)
 
 	$('select').on('change', function(){
-		$.when( $.getJSON('../data/mfarm_60_days.json') )
+		$.when( $.getJSON('https://gist.github.com/pdarche/5177672/raw/43e53332012706e8bc6866a141d089e142dba765/60_day_mfarm.json') )
 		.done(
 			function(d){
 				data = []
