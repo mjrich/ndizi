@@ -61,7 +61,6 @@ function selectData(d, product, location) {
 // helper function
 function getDate(d) {
     var date = Date(d.x)
-    // console.log( Date.parse(d.x).getTime()/1000 )
     return new Date(d.x);
 }
 
