@@ -19,7 +19,7 @@ We scraped the [mfarm](http://www.mfarm.co.ke/) data from Kenya.  This is SMS da
 ###This is a placeholder for a custom data interactive... stay tuned..
 ![Alt text](/mfarm/mfarm_placeholder.png)  
 
-Our scraper code and data is also posted in the [mfarm/data](https://github.com/mjrich/ndizi/tree/master/mfarm/data) directory.
+More information can be found in our [mfarm](https://github.com/mjrich/ndizi/tree/master/mfarm) directory.
 
 [Here is a map](http://public.tableausoftware.com/views/Ndizi/Sheet1?:embed=y&:display_count=no) with average Maize prices by market over the last 60 days.
 
